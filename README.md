@@ -14,3 +14,42 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+╭──────────────────────────────────────────────╮
+│                                              │
+│  Hi, I'm Parv Patel 👋                      │
+│                                              │
+│  IT Student | Aspiring Software Developer    │
+│                                              │
+│  Build • Learn • Grow                        │
+│                                              │
+╰──────────────────────────────────────────────╯
+
+                    ABOUT ME
+
+🎓 IT Student @ VGEC
+💻 C & C++ learner
+🌐 Web Development
+🧠 Data Structures & Algorithms
+🤖 Exploring AI
+🚀 Building projects
+
+                    TECH STACK
+
+C       C++       HTML
+CSS   JAVA SCRIPT
+Git     GitHub
+DSA     AI
+
+                 FEATURED PROJECTS
+
+🕹️ Rock Paper Scissors
+
+
+                    EDUCATION
+
+Vishwakarma Government Engineering College
+Information Technology
+
+                    CONNECT
+
+LinkedIn | GitHub
