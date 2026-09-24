@@ -24,10 +24,15 @@ Here are some ideas to get you started:
                     ABOUT ME
 
 🎓 IT Student @ VGEC
+
 💻 C & C++ learner
+
 🌐 Web Development
+
 🧠 Data Structures & Algorithms
+
 🤖 Exploring AI
+
 🚀 Building projects
 
                     TECH STACK
