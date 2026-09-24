@@ -37,10 +37,13 @@ Here are some ideas to get you started:
 
                     TECH STACK
 
-C       C++       HTML
-CSS   JAVA SCRIPT
-Git     GitHub
-DSA     AI
+C        C++        HTML
+
+CSS    JAVA SCRIPT
+
+Git      GitHub
+
+DSA      AI
 
                  FEATURED PROJECTS
 
