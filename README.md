@@ -14,15 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-╭──────────────────────────────────────────────╮
-│                                              │
-│  Hi, I'm Parv Patel 👋                      │
-│                                              │
-│  IT Student | Aspiring Software Developer    │
-│                                              │
-│  Build • Learn • Grow                        │
-│                                              │
-╰──────────────────────────────────────────────╯
+                                              
+  Hi, I'm Parv Patel 👋 
+
+  IT Student | Aspiring Software Developer    
+                                             
+  Build • Learn • Grow   
 
                     ABOUT ME
 
